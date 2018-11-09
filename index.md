@@ -3,8 +3,8 @@ title: This is my title
 layout: post
 ---
 
-Here is my page.
-Introduction MD
+#Here is my page.
+##Introduction MD
 Complete installation guide: https://doc.owncloud.org/server/latest/admin_manual/installation/
 First, check the Release Notes: https://doc.owncloud.org/server/latest/admin_manual/release_notes.html
 Install and configure Owncloud server: https://doc.owncloud.org/server/latest/admin_manual/installation/
